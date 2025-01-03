@@ -6,12 +6,11 @@ Here is a list of some key network troubleshooting commands for Windows. These w
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Network Commands</title>
+   
 </head>
 <body>
     <header>
-        <h1>Common Network Commands</h1>
-        <p>Below are useful network commands and their descriptions.</p>
+     
     </header>
     <section>
         <h2>Ping Commands</h2>
