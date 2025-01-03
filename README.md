@@ -9,9 +9,7 @@ Here is a list of some key network troubleshooting commands for Windows. These w
    
 </head>
 <body>
-    <header>
-     
-    </header>
+
     <section>
         <h2>Ping Commands</h2>
         <ul>
