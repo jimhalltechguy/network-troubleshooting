@@ -13,8 +13,9 @@ Here is a list of some key network troubleshooting commands for Windows. These w
 
 
 
-  Network Troubleshooting Commands (for Windows)
-	“ping (IP address)” - operates at Level 3 of the OSI Model, can see if we can reach the Internet
+
+	<h2>“ping (IP address)”</h2>
+ 		Operates at Level 3 of the OSI Model, can see if we can reach the Internet
 	“ping google.com” - see if we get a response from one of world’s most commonly accessed websites
 	“ipconfig” - gives us our network settings - IPv4, MAC, subnet mask, default gateway,etc
 	“ipconfig /all” - gives even more detailed info
